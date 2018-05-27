@@ -1,2 +1,2 @@
 # Example-Work
-Selection of programming works from the past couple years.
+This is a small selection of coding/programming done by me.
