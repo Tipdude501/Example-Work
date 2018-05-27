@@ -1,0 +1,56 @@
+#TitleBlock {
+	text-align: center;
+	font-family: helvetica;
+	background: white;
+	margin: 0;
+}
+
+
+#title {
+	cursor: default;
+	margin: 0;
+	padding: 100px 0 5px;
+	font-family: helvetica;
+	font-size: 6em;
+	letter-spacing: -21px;
+	/* un-selectable */
+	-webkit-touch-callout: none; /* iOS Safari */
+	-webkit-user-select: none;   /* Chrome/Safari/Opera */
+	-khtml-user-select: none;    /* Konqueror */
+	-moz-user-select: none;      /* Firefox */
+	-ms-user-select: none;       /* Internet Explorer/Edge */
+	user-select: none;
+}
+
+
+#generate {
+	margin: 0;
+	opacity: .67;
+	max-height: 26px;
+	padding: 0 0 69px;
+	-webkit-touch-callout: none; /* iOS Safari */
+	-webkit-user-select: none;   /* Chrome/Safari/Opera */
+	-khtml-user-select: none;    /* Konqueror */
+	-moz-user-select: none;      /* Firefox */
+	-ms-user-select: none;       /* Internet Explorer/Edge */
+	user-select: none;
+}
+
+#generate:hover {
+	opacity: .17;
+}
+
+
+
+/* B O D Y */
+
+body {
+	margin-top: 50px;
+	margin-bottom: 90px;
+	padding: 90px;
+
+}
+
+#space {
+	margin-top: 0px
+}
